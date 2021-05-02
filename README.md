@@ -11,9 +11,9 @@ The project required us to build a 5-stage pipelined processor capable of execut
 
 # Credits
 This project was jointly developed by 
-Muhammad Hammad Maqdoom
-Zoha Ovais Karim
-Umema Zehra
+- Muhammad Hammad Maqdoom
+- Zoha Ovais Karim
+- Umema Zehra
 
 You may contact me about any bugs or errors at the following email mmm05534@st.habib.edu.pk
 
