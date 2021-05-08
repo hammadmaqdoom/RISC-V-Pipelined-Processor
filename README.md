@@ -19,6 +19,6 @@ This project was jointly developed by
 - Zoha Ovais Karim
 - Umema Zehra
 
-You may contact me about any bugs or errors at the following email mmm05534@st.habib.edu.pk, zk05617@st.habib.edu.pk, uz05607@st.habib.edu.pk
+You may contact us about any bugs or errors at the following emails mmm05534@st.habib.edu.pk, zk05617@st.habib.edu.pk and uz05607@st.habib.edu.pk
 
 Happy testing :)
