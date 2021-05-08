@@ -102,18 +102,26 @@
     
     \chapter{Task 1}
     \section{\texttt{Modify single-cycle processor}}
-
+    The tasks that we attempted in lab 11 came in handy for this task. We made changes and alterations to the code in line with task 1 given to us. 
+    
     We modified the single-cycle processor to be able to run the bubble sort code on it.
+    We had worked on the bubble sort task in lab 4 (task 2). 
+    For the instructions, we made use of the venus simulator and then used the same instructions in verilog for instruction memory. 
 
 
     \lstinputlisting[language=verilog]{./code/task1-design.v}
     Test Bench:
     \lstinputlisting[language=verilog]{./code/task1-tb.v}
-%   \includegraphics[width=180mm]{l-11.jpg}
+    \newpage
+    Result from Test Bench: \newline
+    Wave Diagram \newline
+    \begin{center}
+        \includegraphics[width=165mm]{images/task1.jpg}
+    \end{center}
    
    \chapter{Task 2}
     \section{\texttt{5 Stage Pipelining}}
-    
+    We now modified the said processor to make it a pipelined one (5 stages). We then tested and ran each instruction separately to verify that the pipelined version can at least execute one instruction correctly in isolation.
 
     \lstinputlisting[language=verilog]{./code/task2-design.v}
     Test Bench:
@@ -121,22 +129,22 @@
 %   \includegraphics[width=180mm]{l-11.jpg}
    
    
-   \chapter{Task 3}
-    \section{\texttt{Hazard Circuitry}}
+%   \chapter{Task 3}
+%     \section{\texttt{Hazard Circuitry}}
     
-    \lstinputlisting[language=verilog]{./code/task3-design.v}
-    Test Bench:
-    \lstinputlisting[language=verilog]{./code/task3-tb.v}
+%     \lstinputlisting[language=verilog]{./code/task3-design.v}
+%     Test Bench:
+%     \lstinputlisting[language=verilog]{./code/task3-tb.v}
 %   \includegraphics[width=180mm]{l-11.jpg}
     
    \chapter{Code}
     \section{\texttt{EDA Links}}
     
-    \href{https://www.edaplayground.com/x/Dzti}{Task 1 EDA Link}
+    \href{https://edaplayground.com/x/NxwY}{Task 1 EDA Link}
     
-    \href{https://www.edaplayground.com/x/Dzti}{Task 2 EDA Link}
+    \href{https://edaplayground.com/x/G8_E}{Task 2 EDA Link}
         
-    \href{https://www.edaplayground.com/x/Dzti}{Task 3 EDA Link}
+    % \href{https://www.edaplayground.com/x/Dzti}{Task 3 EDA Link}
 
 
     % \lstinputlisting[language=verilog]{all.v}
