@@ -1,5 +1,5 @@
-# Single Cycle Pipelined Processor
-Made Single Cycle Pipelined Processor using Verilog for course project 'CS330L: Computer Architecture Lab' at Habib University.
+# RISC V Pipelined Processor
+Made RISC V Pipelined Processor using Verilog for course project 'CS330L: Computer Architecture Lab' at Habib University.
 
 # Overview
 The project required us to build a 5-stage pipelined processor capable of executing a bubble sort program.
